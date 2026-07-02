@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [0021-merge-two-sorted-lists](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 ## Queue
 |  |
 | ------- |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [2126-destroying-asteroids](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
