@@ -8,6 +8,7 @@
 | [0047-permutations-ii](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0047-permutations-ii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2126-destroying-asteroids](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
+| [0001-two-sum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
