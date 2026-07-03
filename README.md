@@ -12,6 +12,7 @@
 | [0015-3sum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0018-4sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
