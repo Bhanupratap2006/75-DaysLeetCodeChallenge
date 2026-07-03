@@ -11,6 +11,7 @@
 | [0001-two-sum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0018-4sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -57,4 +58,12 @@
 | ------- |
 | [0015-3sum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0018-4sum) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
