@@ -14,6 +14,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0011-container-with-most-water](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [0189-rotate-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | [0018-4sum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0011-container-with-most-water](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
