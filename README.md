@@ -37,6 +37,7 @@
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [0021-merge-two-sorted-lists](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
 | ------- |
