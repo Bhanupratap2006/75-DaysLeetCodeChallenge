@@ -69,6 +69,7 @@
 | [0011-container-with-most-water](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [3794-reverse-string-prefix](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/3794-reverse-string-prefix) |
+| [2000-reverse-prefix-of-word](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,4 +82,9 @@
 |  |
 | ------- |
 | [3794-reverse-string-prefix](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/3794-reverse-string-prefix) |
+| [2000-reverse-prefix-of-word](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2000-reverse-prefix-of-word) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
