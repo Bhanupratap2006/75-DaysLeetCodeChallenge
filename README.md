@@ -56,6 +56,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Hash Table
 |  |
 | ------- |
