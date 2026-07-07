@@ -11,16 +11,19 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        vector<ListNode*>ans;
-        ListNode*curr=head;
-        while(curr)
+        int count=0;
+        ListNode*temp=head;
+        while(temp)
         {
-            ans.push_back(curr);
-            curr=curr->next;
+            count++;
+            temp=temp->next;
         }
-        int n=ans.size();
-        return ans[n/2];
-        
-        
+        temp=head;
+        count/=2;
+        while(count--)
+        {
+            temp=temp->next;
+        }
+        return temp;
     }
 };
