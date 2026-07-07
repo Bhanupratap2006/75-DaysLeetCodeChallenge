@@ -57,6 +57,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0189-rotate-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [3794-reverse-string-prefix](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/3794-reverse-string-prefix) |
 | [2000-reverse-prefix-of-word](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2000-reverse-prefix-of-word) |
+| [0876-middle-of-the-linked-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
