@@ -59,6 +59,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2000-reverse-prefix-of-word) |
 | [0876-middle-of-the-linked-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Binary Search
 |  |
 | ------- |
