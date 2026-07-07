@@ -64,11 +64,13 @@
 | [0061-rotate-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 | [0061-rotate-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 ## Binary Search
 |  |
 | ------- |
