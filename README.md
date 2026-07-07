@@ -63,10 +63,12 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
+| [0141-linked-list-cycle](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
+| [0141-linked-list-cycle](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 ## Binary Search
 |  |
 | ------- |
