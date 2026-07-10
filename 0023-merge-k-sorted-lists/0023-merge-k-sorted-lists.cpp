@@ -11,7 +11,8 @@
 
 class Solution {
 public:
-    ListNode* merge(ListNode* head1, ListNode* head2) {
+    ListNode* merge(ListNode* head1, ListNode* head2)
+    {
         ListNode* head = new ListNode(0);
         ListNode* tail = head;
 
@@ -37,18 +38,26 @@ public:
         return head->next;
     }
 
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        int n = lists.size();
+    void mergesort(vector<ListNode*>& lists, int start, int end) {
+        if (start >= end)
+            return;
 
-        if (n == 0)
+        int mid = start + (end - start) / 2;
+
+        mergesort(lists, start, mid);
+        mergesort(lists, mid + 1, end);
+
+        lists[start] = merge(lists[start], lists[mid + 1]);
+    }
+
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        int k = lists.size();
+
+        if (k == 0)
             return NULL;
 
-        ListNode* head = lists[0];
+        mergesort(lists, 0, k - 1);
 
-        for (int i = 1; i < n; i++) {
-            head = merge(head, lists[i]);
-        }
-
-        return head;
+        return lists[0];
     }
 };
