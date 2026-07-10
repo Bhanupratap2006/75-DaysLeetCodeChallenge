@@ -70,6 +70,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0002-add-two-numbers](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0025-reverse-nodes-in-k-group) |
+| [0023-merge-k-sorted-lists](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 ## String
 |  |
 | ------- |
@@ -111,4 +113,12 @@
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2000-reverse-prefix-of-word) |
 | [0234-palindrome-linked-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
