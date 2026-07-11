@@ -71,12 +71,14 @@
 | [0002-add-two-numbers](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0025-reverse-nodes-in-k-group) |
 | [0023-merge-k-sorted-lists](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0138-copy-list-with-random-pointer) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0138-copy-list-with-random-pointer) |
 ## Two Pointers
 |  |
 | ------- |
