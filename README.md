@@ -116,12 +116,14 @@
 | [2000-reverse-prefix-of-word](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2000-reverse-prefix-of-word) |
 | [0344-reverse-string](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0020-valid-parentheses](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2000-reverse-prefix-of-word) |
 | [0234-palindrome-linked-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0020-valid-parentheses](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
