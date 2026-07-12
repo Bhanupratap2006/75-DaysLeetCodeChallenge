@@ -57,6 +57,7 @@
 | ------- |
 | [2126-destroying-asteroids](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
 | [0011-container-with-most-water](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Linked List
 |  |
 | ------- |
@@ -114,11 +115,13 @@
 | [3794-reverse-string-prefix](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/3794-reverse-string-prefix) |
 | [2000-reverse-prefix-of-word](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2000-reverse-prefix-of-word) |
 | [0344-reverse-string](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2000-reverse-prefix-of-word) |
 | [0234-palindrome-linked-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
