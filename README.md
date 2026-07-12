@@ -15,6 +15,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0011-container-with-most-water](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/3925-concatenate-array-with-reverse) |
 ## Backtracking
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3925-concatenate-array-with-reverse](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
 |  |
 | ------- |
