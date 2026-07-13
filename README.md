@@ -17,6 +17,7 @@
 | [0189-rotate-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/3925-concatenate-array-with-reverse) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [0020-valid-parentheses](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0901-online-stock-span](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -144,8 +146,17 @@
 | ------- |
 | [0901-online-stock-span](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
