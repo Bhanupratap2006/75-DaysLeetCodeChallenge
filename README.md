@@ -16,6 +16,7 @@
 | [0011-container-with-most-water](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/3925-concatenate-array-with-reverse) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 ## Backtracking
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0020-valid-parentheses](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0901-online-stock-span](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 ## Data Stream
 |  |
 | ------- |
