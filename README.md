@@ -30,6 +30,7 @@
 | [2126-destroying-asteroids](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
 | [0015-3sum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0025-reverse-nodes-in-k-group) |
 | [0023-merge-k-sorted-lists](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0138-copy-list-with-random-pointer) |
+| [0148-sort-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0141-linked-list-cycle](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0148-sort-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +114,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 ## String
 |  |
 | ------- |
@@ -137,6 +141,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 ## Design
 |  |
 | ------- |
