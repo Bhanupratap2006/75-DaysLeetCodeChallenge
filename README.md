@@ -48,6 +48,7 @@
 | [0002-add-two-numbers](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0203-remove-linked-list-elements) |
+| [0024-swap-nodes-in-pairs](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
 ## Queue
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0203-remove-linked-list-elements) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [0024-swap-nodes-in-pairs](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
 ## Hash Table
 |  |
 | ------- |
