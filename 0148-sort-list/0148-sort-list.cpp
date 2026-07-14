@@ -22,15 +22,13 @@ public:
 
         }
         sort(arr.begin(),arr.end());
-        ListNode*newhead=new ListNode(arr[0]);
-        ListNode*temp=newhead;
-        for(int i =1;i<arr.size();i++)
-        {
-            temp->next=new ListNode(arr[i]);
-            temp=temp->next;
-
+        curr = head;
+        for (int i = 0; i < arr.size(); i++) {
+            curr->val = arr[i];
+            curr = curr->next;
         }
-        return newhead;
+
+        return head;
         
         
         
