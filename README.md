@@ -38,6 +38,7 @@
 | [0189-rotate-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0002-add-two-numbers](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [0445-add-two-numbers-ii](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [0024-swap-nodes-in-pairs](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
+| [0445-add-two-numbers-ii](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0445-add-two-numbers-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 | [0901-online-stock-span](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
+| [0445-add-two-numbers-ii](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0445-add-two-numbers-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
