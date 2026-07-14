@@ -81,6 +81,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0203-remove-linked-list-elements) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0141-linked-list-cycle](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0138-copy-list-with-random-pointer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0148-sort-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 ## Binary Search
 |  |
 | ------- |
