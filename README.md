@@ -134,6 +134,7 @@
 | [0344-reverse-string](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0020-valid-parentheses](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [1544-make-the-string-great](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1544-make-the-string-great) |
 ## Stack
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0445-add-two-numbers-ii](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0445-add-two-numbers-ii) |
+| [1544-make-the-string-great](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1544-make-the-string-great) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
