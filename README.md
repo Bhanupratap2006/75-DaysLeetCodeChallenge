@@ -19,6 +19,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [0027-remove-element](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [0344-reverse-string](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0148-sort-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
+| [0027-remove-element](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 ## Binary Search
 |  |
 | ------- |
