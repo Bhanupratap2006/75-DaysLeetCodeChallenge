@@ -20,6 +20,7 @@
 | [0085-maximal-rectangle](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [0027-remove-element](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 ## Backtracking
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0002-add-two-numbers](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [0445-add-two-numbers-ii](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0445-add-two-numbers-ii) |
+| [0066-plus-one](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
