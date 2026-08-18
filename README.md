@@ -35,6 +35,7 @@
 | [0018-4sum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [0147-insertion-sort-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0147-insertion-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [0024-swap-nodes-in-pairs](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0445-add-two-numbers-ii](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0445-add-two-numbers-ii) |
+| [0147-insertion-sort-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0147-insertion-sort-list) |
 ## Hash Table
 |  |
 | ------- |
