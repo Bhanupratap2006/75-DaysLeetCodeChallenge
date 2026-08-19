@@ -21,6 +21,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [0027-remove-element](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0148-sort-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [0147-insertion-sort-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0147-insertion-sort-list) |
+| [0088-merge-sorted-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -124,6 +126,7 @@
 | [0148-sort-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0027-remove-element](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
