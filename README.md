@@ -23,6 +23,7 @@
 | [0066-plus-one](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2073-time-needed-to-buy-tickets) |
 ## Backtracking
 |  |
 | ------- |
@@ -64,11 +65,13 @@
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/3925-concatenate-array-with-reverse) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2073-time-needed-to-buy-tickets) |
 ## Greedy
 |  |
 | ------- |
