@@ -66,6 +66,7 @@
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2073-time-needed-to-buy-tickets) |
+| [0232-implement-queue-using-stacks](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 ## Simulation
 |  |
 | ------- |
@@ -164,6 +165,7 @@
 | [0085-maximal-rectangle](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0445-add-two-numbers-ii](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0445-add-two-numbers-ii) |
 | [1544-make-the-string-great](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1544-make-the-string-great) |
+| [0232-implement-queue-using-stacks](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
+| [0232-implement-queue-using-stacks](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
