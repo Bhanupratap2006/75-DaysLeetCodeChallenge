@@ -24,6 +24,7 @@
 | [0088-merge-sorted-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2073-time-needed-to-buy-tickets) |
+| [0239-sliding-window-maximum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 ## Backtracking
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2073-time-needed-to-buy-tickets) |
 | [0232-implement-queue-using-stacks](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0225-implement-stack-using-queues](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 ## Simulation
 |  |
 | ------- |
@@ -173,6 +175,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
 | ------- |
@@ -202,4 +205,16 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
