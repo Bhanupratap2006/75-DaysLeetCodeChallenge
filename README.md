@@ -25,6 +25,7 @@
 | [0217-contains-duplicate](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2073-time-needed-to-buy-tickets) |
 | [0239-sliding-window-maximum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Backtracking
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0225-implement-stack-using-queues](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Simulation
 |  |
 | ------- |
@@ -209,6 +211,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -217,4 +220,16 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+## Prefix Sum
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 <!---LeetCode Topics End-->
