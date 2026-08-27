@@ -179,6 +179,7 @@
 | [1544-make-the-string-great](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1544-make-the-string-great) |
 | [0232-implement-queue-using-stacks](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0225-implement-stack-using-queues](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -252,6 +253,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -260,4 +262,9 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
