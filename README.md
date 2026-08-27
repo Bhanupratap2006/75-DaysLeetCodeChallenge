@@ -27,6 +27,7 @@
 | [0239-sliding-window-maximum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [0287-find-the-duplicate-number](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
+| [0179-largest-number](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0179-largest-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0147-insertion-sort-list](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0147-insertion-sort-list) |
 | [0088-merge-sorted-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0179-largest-number](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0179-largest-number) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 | [2126-destroying-asteroids](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
 | [0011-container-with-most-water](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0179-largest-number](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0179-largest-number) |
 ## Linked List
 |  |
 | ------- |
@@ -161,6 +164,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0020-valid-parentheses](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1544-make-the-string-great) |
+| [0179-largest-number](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0179-largest-number) |
 ## Stack
 |  |
 | ------- |
