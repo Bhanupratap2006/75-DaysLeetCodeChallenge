@@ -259,6 +259,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0100-same-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -275,6 +276,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0100-same-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -283,4 +285,5 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0100-same-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
