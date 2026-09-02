@@ -46,6 +46,7 @@
 | [0088-merge-sorted-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0179-largest-number](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0179-largest-number) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -261,6 +263,7 @@
 | [0226-invert-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -269,6 +272,7 @@
 | [0100-same-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -280,6 +284,7 @@
 | [0226-invert-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -289,4 +294,5 @@
 | [0100-same-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
