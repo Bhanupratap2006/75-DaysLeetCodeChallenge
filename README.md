@@ -30,6 +30,7 @@
 | [0179-largest-number](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0179-largest-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0041-first-missing-positive](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0041-first-missing-positive) |
 ## Backtracking
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0041-first-missing-positive) |
 ## Two Pointers
 |  |
 | ------- |
