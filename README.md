@@ -287,6 +287,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -321,6 +322,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -345,4 +347,5 @@
 | [0098-validate-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
