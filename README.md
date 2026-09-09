@@ -285,6 +285,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0450-delete-node-in-a-bst) |
 | [0098-validate-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -296,6 +297,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0993-cousins-in-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0993-cousins-in-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -316,6 +318,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0450-delete-node-in-a-bst) |
 | [0098-validate-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -330,6 +333,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0993-cousins-in-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0098-validate-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -337,4 +341,5 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0450-delete-node-in-a-bst) |
 | [0098-validate-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
