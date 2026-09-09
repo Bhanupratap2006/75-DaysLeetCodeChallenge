@@ -283,6 +283,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0993-cousins-in-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0450-delete-node-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -312,6 +313,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0993-cousins-in-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -330,4 +332,5 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
