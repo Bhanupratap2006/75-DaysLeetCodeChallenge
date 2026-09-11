@@ -288,6 +288,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -323,6 +324,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -338,6 +340,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0098-validate-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -348,4 +351,13 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
