@@ -32,6 +32,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0041-first-missing-positive](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0041-first-missing-positive) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1672-richest-customer-wealth](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 ## Backtracking
 |  |
 | ------- |
@@ -231,6 +232,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
+| [1672-richest-customer-wealth](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 ## Sliding Window
 |  |
 | ------- |
