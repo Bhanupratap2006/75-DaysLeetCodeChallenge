@@ -34,6 +34,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1672-richest-customer-wealth](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0179-largest-number](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0179-largest-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Math
 |  |
 | ------- |
@@ -162,6 +164,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0287-find-the-duplicate-number](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -207,6 +210,7 @@
 | [0239-sliding-window-maximum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Merge Sort
 |  |
 | ------- |
@@ -240,6 +244,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [1672-richest-customer-wealth](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Sliding Window
 |  |
 | ------- |
