@@ -56,6 +56,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0295-find-median-from-data-stream](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
 ## Math
 |  |
 | ------- |
@@ -159,6 +160,7 @@
 | [0027-remove-element](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
 ## Binary Search
 |  |
 | ------- |
@@ -211,6 +213,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0295-find-median-from-data-stream](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -223,6 +226,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0225-implement-stack-using-queues](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0295-find-median-from-data-stream](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -234,6 +238,7 @@
 | ------- |
 | [0901-online-stock-span](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0295-find-median-from-data-stream](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
 ## Dynamic Programming
 |  |
 | ------- |
