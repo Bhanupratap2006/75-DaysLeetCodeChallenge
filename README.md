@@ -36,6 +36,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [0560-subarray-sum-equals-k](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0041-first-missing-positive) |
+| [0560-subarray-sum-equals-k](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -275,6 +277,7 @@
 |  |
 | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [0560-subarray-sum-equals-k](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 ## Brute-Force Search
 |  |
 | ------- |
