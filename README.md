@@ -35,6 +35,7 @@
 | [1672-richest-customer-wealth](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1354-construct-target-array-with-multiple-sums) |
 ## Backtracking
 |  |
 | ------- |
@@ -214,6 +215,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0295-find-median-from-data-stream](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1354-construct-target-array-with-multiple-sums) |
 ## Merge Sort
 |  |
 | ------- |
