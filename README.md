@@ -37,6 +37,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Backtracking
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0295-find-median-from-data-stream](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Math
 |  |
 | ------- |
@@ -164,12 +166,14 @@
 | [0088-merge-sorted-array](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0287-find-the-duplicate-number](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -218,6 +222,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0295-find-median-from-data-stream](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Merge Sort
 |  |
 | ------- |
