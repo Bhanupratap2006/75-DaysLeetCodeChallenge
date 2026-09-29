@@ -39,6 +39,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Backtracking
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0041-first-missing-positive) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -268,6 +270,7 @@
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhanupratap2006/75-DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Monotonic Queue
 |  |
 | ------- |
